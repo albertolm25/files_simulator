@@ -1,0 +1,3907 @@
+country_iso,scheme,eea_scope,section,product,fee_type,column,value_raw,percent,cap_currency,cap_amount,percent_plus,plus_currency,plus_amount,page,source
+DE,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Fee Tier,"Contactless 
+Chip
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+MasterPass Wallet
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,General,"0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%",0.3,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid",,Fee Tier,"Contactless 
+Chip
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+MasterPass Wallet
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid",,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Fee Tier,"Contactless 
+Chip&PIN
+Secure e-commerce
+Mail Order /Telephone Order (2)
+Base
+Petrol (MCC 5541 & 5542) (3)
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Consumer,,Fee Tier,"Contactless 
+Secured
+Enhanced Electronic
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Consumer,,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,Fee Tier,"Contactless 
+Chip
+MasterPass Wallet
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,General,"1.88%
+1.88%
+2.05%
+2.05%
+1.88%
+2.05%",1.88,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,Airlines,"1.45%
+1.45%
+1.45%
+1.45%
+-
+-",1.45,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,"Petrol 
+Stations","0.68%
+0.68%",0.68,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,Touristic,"0.83%
+0.83%
+0.85%
+0.85%
+-
+-",0.83,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,"Grocery 
+Stores","0.83%
+0.83%
+1.90%
+1.90%
+-
+-",0.83,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,Household,"1.05%
+1.05%
+2.05%
+2.05%
+-
+-",1.05,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,Drugstores,"0.90%
+0.90%
+2.05%
+2.05%
+-
+-",0.9,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard Professional Card
+Mastercard World Preferred",,"Equipment, 
+Furniture","1.19%
+1.19%
+2.05%
+2.05%
+-
+-",1.19,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,General,,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,Airlines,,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,"Petrol 
+Stations",1.00%,1.0,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,Touristic,,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,"Grocery 
+Stores",,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,Household,,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,Drugstores,,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,"Equipment, 
+Furniture",,,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),,,"Petrol 
+Stations","1.00%
+-
+-",1.0,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,Fee Tier,"Contactless 
+Secured
+Electronic
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,General,"1.88%
+1.88%
+2.05%
+2.05%
+1.88%
+2.05%",1.88,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,Airlines,"1.45%
+1.45%
+1.45%
+1.45%
+-
+-",1.45,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,"Petrol 
+Stations","0.68%
+0.68%
+1.00%
+1.00%
+-
+-",0.68,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,Touristic,"0.83%
+0.83%
+0.85%
+0.85%
+-
+-",0.83,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,"Grocery 
+Stores","0.83%
+0.83%
+1.90%
+1.90%
+-
+-",0.83,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,Household,"1.05%
+1.05%
+2.05%
+2.05%
+-
+-",1.05,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,Drugstores,"0.90%
+0.90%
+2.05%
+2.05%
+-
+-",0.9,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Debit Mastercard for Business 
+Debit Mastercard Corporate Prepaid
+Mastercard Prepaid Commercial",,"Equipment, 
+Furniture","1.19%
+1.19%
+2.05%
+2.05%
+-
+-",1.19,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,Fee Tier,"Contactless 
+Chip
+MasterPass Wallet
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,General,"1.88%
+1.88%
+2.05%
+2.05%
+1.88%
+2.05%",1.88,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,Airlines,"1.45%
+1.45%
+1.45%
+1.45%
+-
+-",1.45,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,"Petrol 
+Stations","0.68%
+0.68%",0.68,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,Touristic,"0.83%
+0.83%
+0.85%
+0.85%
+-
+-",0.83,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,"Grocery 
+Stores","0.83%
+0.83%
+1.90%
+1.90%
+-
+-",0.83,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,Household,"1.05%
+1.05%
+2.05%
+2.05%
+-
+-",1.05,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,Drugstores,"0.90%
+0.90%
+2.05%
+2.05%
+-
+-",0.9,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard for Business Premium,,"Equipment, 
+Furniture","1.19%
+1.19%
+2.05%
+2.05%
+-
+-",1.19,,,,,,2.0,table
+DE,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Credit Contactless,,col_1,0.30%,0.3,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Debit Contactless,,col_1,0.20%,0.2,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Consumer,Maestro Consumer Contactless,,col_1,0.20%,0.2,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Consumer,Debit Mastercard Consumer Contactless,,col_1,0.20%,0.2,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Commercial,Mastercard Corporate Contactless,,col_1,1.88% 1.45% 0.68% 0.83% 0.83% 1.05% 0.90% 1.19%,1.88,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Commercial,Mastercard Business Contactless,,col_1,1.88% 1.45% 0.68% 0.83% 0.83% 1.05% 0.90% 1.19%,1.88,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Commercial,Debit Mastercard for Business,,col_1,Secured 1.88% 1.45% 0.68% 0.83% 0.83% 1.05% 0.90% 1.19%,1.88,,,,,,,text
+DE,MASTERCARD,DOMESTIC,Commercial,Debit Mastercard for Business Premium Contactless,,col_1,1.88% 1.45% 0.68% 0.83% 0.83% 1.05% 0.90% 1.19%,1.88,,,,,,,text
+DE,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Contactless
+Secure1
+Non-Secure",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,0.20%,0.2,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,Standard,,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,0.20%,0.2,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Contactless
+Secure
+Non-Secure",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,Petrol2,,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,"Airlines3, 
+Railways4",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,"Supermarket5, 
+Travel Agency6,
+Transportation7",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"EMV® Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"1.85%
+2.05%
+2.05%",1.85,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,0.68%,0.68,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,1.35%,1.35,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,0.83%,0.83,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"EMV® Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"1.85%
+2.05%
+2.05%",1.85,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,0.68%,0.68,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,1.35%,1.35,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,0.83%,0.83,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Business Credit - Small Market Expense,,,Standard,,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Business Credit - Small Market Expense,,,0.30%,0.3,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,"2.10%
+2.30%
+2.30%",2.1,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,0.68%,0.68,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,1.35%,1.35,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,0.83%,0.83,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"2.20%
+2.40%
+2.40%",2.2,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,0.68%,0.68,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,1.35%,1.35,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,0.83%,0.83,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate10,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate10,,,"1.85%
+2.05%
+2.05%",1.85,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate10,,,0.68%,0.68,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate10,,,1.35%,1.35,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate10,,,0.83%,0.83,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,Standard,,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,0.30%,0.3,,,,,,1.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,with VGIS,,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,with LID,,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.85%8,9",1.85,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% - €0.50
+1.90% - €0.50
+1.90% - €0.50",1.55,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),,,,"2.05%8,9",2.05,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,Petrol,,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Product,,,"Electric Vehicle 
+Charging",,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 2 - Fuel Only,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 2 - Fuel Only,,,0.68% - 0.20%,0.68,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 2 - Fuel Only,,,1.85% - 0.20%,1.85,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),,,,2.05% - 0.20%,2.05,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 3 - Fuel and non-Fuel,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 3 - Fuel and non-Fuel,,,0.68% - 0.20%,0.68,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 3 - Fuel and non-Fuel,,,1.85% - 0.20%,1.85,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 3 - Non-Fuel,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 3 - Non-Fuel,,,0.68% - 0.20%,0.68,,,,,,2.0,table
+DE,VISA,DOMESTIC,Auto (table),Level 3 - Non-Fuel,,,1.85% - 0.20%,1.85,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Fee Tier,"Low Value Payments (1)
+Base (2)",,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,General,"0.20%
+0.30%",0.2,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit (3)
+Mastercard Consumer Prepaid (3)",,Fee Tier,"Low Value Payments (1)
+Base (2)",,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit (3)
+Mastercard Consumer Prepaid (3)",,General,"0.10%
+0.20%",0.1,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Consumer (3),,Fee Tier,"Low Value Payments (1)
+Base (2)",,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Consumer (3),,General,"0.10%
+0.20%",0.1,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer (3)
+Maestro Consumer Prepaid (3)",,Fee Tier,"Low Value Payments (1)
+Base (2)",,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer (3)
+Maestro Consumer Prepaid (3)",,General,"0.10%
+0.20%",0.1,,,,,,1.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial  Credit,,Merchant Category,"Standard
+Toll Roads
+Retailers
+Restaurants, Travel, and Expenditure
+Airlines
+Petrol",,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial  Credit,,Tier 1,"0.76% + EUR 0.03
+0.57% + EUR 0.03
+0.76% + EUR 0.03
+0.76% + EUR 0.03
+0.76% + EUR 0.03
+0.65% + EUR 0.03",0.76,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial  Credit,,Tier 2,"0.53% + EUR 0.03
+0.46% + EUR 0.03
+0.49% + EUR 0.03
+0.53% + EUR 0.03
+0.51% + EUR 0.03
+0.49% + EUR 0.03",0.53,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial  Credit,,Tier 3,"0.49% + EUR 0.03
+0.23% + EUR 0.03
+0.43% + EUR 0.03
+0.49% + EUR 0.03
+0.43% + EUR 0.03
+0.43% + EUR 0.03",0.49,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial  Debit and Prepaid
+Debit Mastercard, Maestro",,Merchant Category,"Standard
+Toll Roads
+Retailers
+Restaurants, Travel, and Expenditure
+Airlines
+Petrol",,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial  Debit and Prepaid
+Debit Mastercard, Maestro",,Tier 1,"EUR 0.35
+EUR 0.06
+EUR 0.35
+EUR 0.35
+EUR 0.35
+EUR 0.27",,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial  Debit and Prepaid
+Debit Mastercard, Maestro",,Tier 2,"EUR 0.22
+EUR 0.04
+EUR 0.21
+EUR 0.21
+EUR 0.21
+EUR 0.21",,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial  Debit and Prepaid
+Debit Mastercard, Maestro",,Tier 3,"EUR 0.20
+EUR 0.04
+EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.18",,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Credit Premium,,Merchant Category,General (all),,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Credit Premium,,Tier 1,1.05%,1.05,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Credit Premium,,Tier 2,0.85%,0.85,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Credit Premium,,Tier 3,0.75%,0.75,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Debit Premium
+Debit Mastercard Commercial Premium",,Merchant Category,"General (all)
+General (all)",,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Debit Premium
+Debit Mastercard Commercial Premium",,Tier 1,0.75%,0.75,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Debit Premium
+Debit Mastercard Commercial Premium",,Tier 2,0.55%,0.55,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Debit Premium
+Debit Mastercard Commercial Premium",,Tier 3,0.50%,0.5,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Central Travel Solution,,Merchant Category,General (all),,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Central Travel Solution,,Tier 1,1.50%,1.5,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Central Travel Solution,,Tier 2,1.50%,1.5,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Auto (table),Mastercard Central Travel Solution,,Tier 3,1.50%,1.5,,,,,,2.0,table
+ES,MASTERCARD,DOMESTIC,Commercial,Mastercard Commercial,,col_1,Credit Standard 0.76% + EUR 0.03 0.53% + EUR 0.03 0.49% + EUR 0.03,0.76,,,,,,,text
+ES,MASTERCARD,DOMESTIC,Commercial,Mastercard Commercial,,col_1,Debit and Prepaid Standard EUR 0.35 EUR 0.22 EUR 0.20,,,,,,,,text
+ES,MASTERCARD,DOMESTIC,Commercial,"Debit Mastercard, Maestro",,col_1,Toll Roads EUR 0.06 EUR 0.04 EUR 0.04,,,,,,,,text
+ES,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Transaction value up to and including €20.00
+Transactions value over €20.00",,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"0.10%
+0.20%
+(Cap of €0.07)",0.1,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Transaction value up to and including €20.00
+Transactions value over €20.00",,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"0.20%
+0.30%",0.2,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),Product,,,Sector,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),Product,,,Tier-11,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),Product,,,Tier-22,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),Product,,,Tier-33,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid
+Visa Corporate Prepaid",,,Standard4,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid
+Visa Corporate Prepaid",,,€ 0.32,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid
+Visa Corporate Prepaid",,,€ 0.19,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid
+Visa Corporate Prepaid",,,€ 0.17,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,Low Value5,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,0.72%,0.72,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,0.50%,0.5,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,0.43%,0.43,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,Petrol Station6,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.24,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.18,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.15,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,Retailer - Food7,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.23,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.17,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,Toll Road8,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.03,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.01,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,Charity9,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.00,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,Government10,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,"0.72% (capped at EUR 
+1.50)",0.72,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,"0.50% (capped at EUR 
+1.50)",0.5,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,"0.43% (capped at EUR 
+1.50)",0.43,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,Standard4,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,€ 0.35,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,€ 0.22,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,€ 0.20,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,0.72% + EUR 0.03,0.72,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,0.50% + EUR 0.03,0.5,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,0.43% + EUR 0.03,0.43,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.27,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.21,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.26,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.20,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.06,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,€ 0.04,,,,,,,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,"0.72% + €0.03 (capped 
+at €1.50)",0.72,EUR,1.5,0.72,EUR,0.03,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,"0.50% + €0.03 (capped 
+at €1.50)",0.5,EUR,1.5,0.5,EUR,0.03,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,,"0.43% + €0.03 (capped 
+at €1.50)",0.43,EUR,1.5,0.43,EUR,0.03,1.0,table
+ES,VISA,DOMESTIC,Auto (table),,,Standard4,Low Value5,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.72%,0.72,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.50%,0.5,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,0.43%,0.43,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,Standard4,Petrol Station6,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.65%,0.65,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.49%,0.49,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,Standard4,Retailer - Food7,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,Standard4,Toll Road8,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.57%,0.57,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.46%,0.46,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,0.23%,0.23,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,Standard4,Charity9,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.00%,0.0,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.00%,0.0,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,0.00%,0.0,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,Standard4,Government10,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,"0.72% (capped at EUR 
+1.50)",0.72,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,"0.50% (capped at EUR 
+1.50)",0.5,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,"0.43% (capped at EUR 
+1.50)",0.43,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,Standard4,Standard4,,,,,,,2.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,0.76%,0.76% + €0.03,0.76,,,0.76,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,0.50%,0.50% + €0.03,0.5,,,0.5,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,0.43%,0.43% + €0.03,0.43,,,0.43,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.72% + €0.03,0.72,,,0.72,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.50% + €0.03,0.5,,,0.5,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,0.43% + €0.03,0.43,,,0.43,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.65% + €0.03,0.65,,,0.65,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.49% + €0.03,0.49,,,0.49,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,0.57% + €0.03,0.57,,,0.57,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,0.46% + €0.03,0.46,,,0.46,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,0.23% + €0.03,0.23,,,0.23,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.76%,"0.72% + €0.03 (capped 
+at €1.50)",0.72,EUR,1.5,0.72,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.50%,"0.50% + €0.03 (capped 
+at €1.50)",0.5,EUR,1.5,0.5,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Auto (table),,,0.43%,"0.43% + €0.03 (capped 
+at €1.50)",0.43,EUR,1.5,0.43,EUR,0.03,2.0,table
+ES,VISA,DOMESTIC,Commercial,0.72% (capped at EUR,,col_1,0.50% (capped at EUR,0.5,,,,,,,text
+ES,VISA,DOMESTIC,Commercial,0.72% (capped at EUR,,col_2,0.43% (capped at EUR,0.43,,,,,,,text
+ES,VISA,DOMESTIC,Commercial,0.72% + €0.03 (capped,,col_1,0.50% + €0.03 (capped,0.5,,,0.5,EUR,0.03,,text
+ES,VISA,DOMESTIC,Commercial,0.72% + €0.03 (capped,,col_2,0.43% + €0.03 (capped,0.43,,,0.43,EUR,0.03,,text
+ES,VISA,DOMESTIC,Purchasing/Fleet,0.72% (capped at EUR,,col_1,0.50% (capped at EUR,0.5,,,,,,,text
+ES,VISA,DOMESTIC,Purchasing/Fleet,0.72% (capped at EUR,,col_2,0.43% (capped at EUR,0.43,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,Mastercard Consumer Credit,,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Low Value Payments (1)
+Contactless Terminal (1)
+Contactless Terminal High Value (2)
+Contactless
+Contactless High Value (2)
+Contactless Card (1)
+Contactless Card High Value (2)
+Mobile Contactless NFC  (1)
+Mobile Contactless NFC High Value (2)
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+MasterPass Wallet
+Base
+Purchase at ATM
+Purchase at ATM (late presentment)",,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%",0.3,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,"Bill Payment and 
+Government (4)","0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30% (Max 0.09€)
+0.30% (Max 0.09€)
+0.30% (Max 0.09€)
+0.30%
+-
+-",0.3,,0.09,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,"Mastercard Consumer Debit
+Mastercard Consumer Prepaid
+Debit Mastercard Consumer",,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Low Value Payments (1)
+Contactless Terminal (1)
+Contactless Terminal High Value (2)
+Contactless
+Contactless High Value (2)
+Contactless Card (1)
+Contactless Card High Value (2)
+Mobile Contactless  (1)
+Mobile Contactless High Value (2)
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+MasterPass Wallet
+Base
+Purchase at ATM
+Purchase at ATM (late presentment)",,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,"Bill Payment and 
+Government (4)","0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%  (Max 0.09€)
+0.20%  (Max 0.09€)
+0.20%  (Max 0.09€)
+0.20%
+-
+-",0.2,,0.09,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,"Maestro Consumer
+Maestro Consumer Prepaid",,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Low Value Payments (1)
+Contactless Terminal (1)",,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.20%
+0.20%",0.2,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,"Bill Payment and 
+Government (4)","0.20%
+0.20%",0.2,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,,,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Contactless Terminal High Value (2)
+Contactless
+Contactless High Value (2)
+Contactless Card (1)
+Contactless Card High Value (2)
+Mobile Contactless  (1)
+Mobile Contactless High Value (2)
+Chip & PIN
+Secure e-commerce
+Mail Order /Telephone Order (3)
+MasterPass Wallet
+Base
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,"Bill Payment and 
+Government (4)","0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%  (Max 0.09€)
+0.20%
+0.20%  (Max 0.09€)
+0.20%
+-
+-",0.2,,0.09,,,,1.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred
+Debit Mastercard Business Premium",,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Base
+Masterpass (4)
+Incentive (1)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred
+Debit Mastercard Business Premium",,General,"1.50%
+1.50%
+1.60%
+1.90%
+1.60%
+-0.30%
+1.50%
+1.90%",1.5,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Base
+Masterpass (4)
+Incentive (1)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,General,"1.80%
+1.80%
+1.80%
+1.90%
+1.80%
+-0.30%
+1.80%
+1.90%",1.8,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Debit Mastercard Business
+Debit Mastercard Corporate Prepaid",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Masterpass (4)
+Incentive (1)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Debit Mastercard Business
+Debit Mastercard Corporate Prepaid",,General,"1.25%
+1.25%
+1.35%
+1.65%
+1.35%
+-0.30%
+1.25%
+1.65%",1.25,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),Mastercard FleetCard,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Masterpass (4)
+Large Ticket Level 1 (2)
+Large Ticket Level 2 (3)
+Incentive (1)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),Mastercard FleetCard,,General,"1.25%
+1.25%
+1.35%
+1.65%
+1.35%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+1.25%
+1.65%",1.25,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Masterpass (4)
+Large Ticket Level 1 (2)
+Large Ticket Level 2 (3)
+Incentive (1)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,General,"1.25%
+1.25%
+1.35%
+1.65%
+1.35%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+1.25%",1.25,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,,,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Auto (table),,,General,1.65%,1.65,,,,,,2.0,table
+FR,MASTERCARD,DOMESTIC,Consumer,Mobile Contactless NFC,,col_1,(1) 0.30% 0.30%,0.3,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Consumer,Mobile Contactless,,col_1,(1) 0.20% 0.20%,0.2,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Consumer,Merchant UCAF 0.20% 0.20%,,col_1,(Max 0.09€),,,0.09,,,,,text
+FR,MASTERCARD,DOMESTIC,Consumer,Full UCAF 0.20% 0.20%,,col_1,(Max 0.09€),,,0.09,,,,,text
+FR,MASTERCARD,DOMESTIC,Consumer,MasterPass Wallet 0.20% 0.20%,,col_1,(Max 0.09€),,,0.09,,,,,text
+FR,MASTERCARD,DOMESTIC,Consumer,Secure e-commerce 0.20% 0.20%,,col_1,(Max 0.09€),,,0.09,,,,,text
+FR,MASTERCARD,DOMESTIC,Consumer,Purchase at ATM,,col_1,0.20% -,0.2,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,1.50%,1.5,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,1.80%,1.8,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Commercial,Mastercard Business Contactless,,col_1,1.25%,1.25,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Commercial,Debit Mastercard Corporate Prepaid,,col_1,Masterpass (4) 1.35%,1.35,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,1.25%,1.25,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Purchasing/Fleet,Mastercard FleetCard Contactless,,col_1,1.25%,1.25,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Purchasing/Fleet,Purchase at ATM,,col_1,1.25%,1.25,,,,,,,text
+FR,MASTERCARD,DOMESTIC,Purchasing/Fleet,Mastercard Purchasing Card Contactless,,col_1,1.25%,1.25,,,,,,,text
+FR,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Low Value (≤€15.00)
+High Value (>€15.00)",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,0.20%,0.2,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,"Low Value (≤€15.00)
+High Value (>€15.00)",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,0.20%,0.2,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Low Value (≤€15.00)
+High Value (>€15.00)",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,"Government Payments1 
+and Money Services2",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,Charity3,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"EMV® Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.90%
+1.65%
+1.65%",0.9,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.90% (capped at €1.50)
+1.65% (capped at €1.50)
+1.65% (capped at €1.50)",0.9,EUR,1.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.90% (capped at €0.50)
+1.65% (capped at €0.50)
+1.65% (capped at €0.50)",0.9,EUR,0.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+1.65%, minimum €0.35
+1.65%, minimum €0.35",1.3,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+(capped at €1.50)
+1.65%, minimum €0.35
+(capped at €1.50)
+1.65%, minimum €0.35
+(capped at €1.50)",1.3,EUR,1.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+(capped at €0.50)
+1.65%, minimum €0.35
+(capped at €0.50)
+1.65%, minimum €0.35
+(capped at €0.50)",1.3,EUR,0.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"1.30%
+1.65%
+1.65%",1.3,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"-
+-
+-",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Business Credit - Small Market 
+Expense",,,Standard,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Business Credit - Small Market 
+Expense",,,0.30%,0.3,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Business Credit - Small Market 
+Expense",,,-,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"1.55%
+1.90%
+1.90%",1.55,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"1.55% (capped at €1.50)
+1.90% (capped at €1.50)
+1.90% (capped at €1.50)",1.55,EUR,1.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"1.55% (capped at €0.50)
+1.90% (capped at €0.50)
+1.90% (capped at €0.50)",1.55,EUR,0.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,"1.55%, minimum €0.35
+1.90%, minimum €0.35
+1.90%, minimum €0.35",1.55,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,"1.55%, minimum €0.35
+(capped at €1.50)
+1.90%, minimum €0.35
+(capped at €1.50)
+1.90%, minimum €0.35
+(capped at €1.50)",1.55,EUR,1.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,"1.55%, minimum €0.35
+(capped at €0.50)
+1.90%, minimum €0.35
+(capped at €0.50)
+1.90%, minimum €0.35
+(capped at €0.50)",1.55,EUR,0.5,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"1.55%
+1.90%
+1.90%",1.55,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"-
+-
+-",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Corporate7,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Corporate7,,,"1.55%
+1.90%
+1.90%",1.55,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Corporate7,,,"-
+-
+-",,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,Standard,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,0.30%,0.3,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,-,,,,,,,1.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,with VGIS,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,with LID,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard
+Large Ticket Program 17
+Large Ticket Program 27",,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55%4,5
+1.90%4,5
+1.90%4,5",1.55,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% - €0.50
+1.90% - €0.50
+1.90% - €0.50",1.55,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),,,,"1.00% + €60.00
+0.75% + €98.00",1.0,,,1.0,EUR,60.0,2.0,table
+FR,VISA,DOMESTIC,Auto (table),,,,"- 
+ -",,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,Level 2 - Fuel Only,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Fuel and non-Fuel,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Non-Fuel,,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+FR,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"1.55% - 0.30%
+1.90% - 0.30%
+1.90% - 0.30%",1.55,,,,,,2.0,table
+EEA,,INTER,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+EEA,,INTER,Auto (table),Product,,,General,,,,,,,1.0,table
+EEA,,INTER,Auto (table),"Visa Consumer Debit &
+Visa Consumer Prepaid",,,"Card-Present2
+Card-Not-Present3",,,,,,,1.0,table
+EEA,,INTER,Auto (table),"Visa Consumer Debit &
+Visa Consumer Prepaid",,,"0.20%
+1.15%",0.2,,,,,,1.0,table
+EEA,,INTER,Auto (table),"Visa Consumer Credit4 & 
+Visa Consumer Deferred Debit",,,"Card-Present
+Card-Not-Present",,,,,,,1.0,table
+EEA,,INTER,Auto (table),"Visa Consumer Credit4 & 
+Visa Consumer Deferred Debit",,,"0.30%
+1.50%",0.3,,,,,,1.0,table
+EEA,VISA,INTER,Consumer,Visa Consumer Credit4 &,,col_1,Card-Present 0.30%,0.3,,,,,,,text
+EEA,,INTRA,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Product,,,General,,,,,,,1.0,table
+EEA,,INTRA,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Contactless
+Secure2
+Non-Secure",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,0.20%,0.2,,,,,,1.0,table
+EEA,,INTRA,Auto (table),"V PAY Debit
+V PAY Prepaid",,,"Contactless
+Secure
+Non-Secure",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),"V PAY Debit
+V PAY Prepaid",,,0.20%,0.2,,,,,,1.0,table
+EEA,,INTRA,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Contactless
+Secure
+Non-Secure",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Product,,,"Government Payments3 
+and Money Services4",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Product,,,Charity5,,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Debit,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Debit,,,"1.30%
+1.65%
+1.65%",1.3,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Debit,,,"1.30% (capped at €1.50)
+1.65% (capped at €1.50)
+1.65% (capped at €1.50)",1.3,EUR,1.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Debit,,,"1.30% (capped at €0.50)
+1.65% (capped at €0.50)
+1.65% (capped at €0.50)",1.3,EUR,0.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+1.65%, minimum €0.35
+1.65%, minimum €0.35",1.3,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+(capped at €1.50)
+1.65%, minimum €0.35
+(capped at €1.50)
+1.65%, minimum €0.35
+(capped at €1.50)",1.3,EUR,1.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+(capped at €0.50)
+1.65%, minimum €0.35
+(capped at €0.50)
+1.65%, minimum €0.35
+(capped at €0.50)",1.3,EUR,0.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Debit,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Debit,,,"1.55%
+1.90%
+1.90%",1.55,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Debit,,,"1.55% capped at €1.50
+1.90% capped at €1.50
+1.90% capped at €1.50",1.55,EUR,1.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Debit,,,"1.55% capped at €0.50
+1.90% capped at €0.50
+1.90% capped at €0.50",1.55,EUR,0.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Prepaid,,,"1.55%, minimum €0.35   
+1.90%, minimum €0.35   
+1.90%, minimum €0.35",1.55,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Prepaid,,,"1.55%, minimum €0.35     (capped 
+  
+at €1.50)
+1.90%, minimum €0.35     (capped 
+  
+at €1.50)
+1.90%, minimum €0.35     (capped 
+  
+at €1.50)",1.55,EUR,1.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Platinum Business Prepaid,,,"1.55%, minimum €0.35   
+(capped at €0.50)
+1.90%, minimum €0.35   
+(capped at €0.50)
+1.90%, minimum €0.35   
+(capped at €0.50)",1.55,EUR,0.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Debit,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Debit,,,"1.65%
+2.00%
+2.00%",1.65,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Debit,,,"1.65% capped at €1.50
+2.00% capped at €1.50
+2.00% capped at €1.50",1.65,EUR,1.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Debit,,,"1.65% capped at €0.50
+2.00% capped at €0.50
+2.00% capped at €0.50",1.65,EUR,0.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Prepaid,,,"1.65%, minimum €0.35   
+2.00%, minimum €0.35   
+2.00%, minimum €0.35",1.65,,,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Prepaid,,,"1.65%, minimum €0.35     (capped 
+  
+at €1.50)
+2.00%, minimum €0.35     (capped 
+  
+at €1.50)
+2.00%, minimum €0.35     (capped 
+  
+at €1.50)",1.65,EUR,1.5,,,,1.0,table
+EEA,,INTRA,Auto (table),Visa Infinite Business Prepaid,,,"1.65%, minimum €0.35   
+(capped at €0.50)
+2.00%, minimum €0.35   
+(capped at €0.50)
+2.00%, minimum €0.35   
+(capped at €0.50)",1.65,EUR,0.5,,,,1.0,table
+EEA,,INTRA,Auto (table),"Visa Business Credit - Small Market 
+Expense",,Fee Type,Standard,,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Business Credit - Small Market 
+Expense",,General,0.30%,0.3,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,General,"1.30%
+1.65%
+1.65%",1.3,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,General,"1.55%
+1.90%
+1.90%",1.55,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),"Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,General,"1.65%
+2.00%
+2.00%",1.65,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Corporate9,,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Corporate9,,General,"1.55%
+1.90%
+1.90%",1.55,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Corporate - Large Market Enterprise,,Fee Type,Standard,,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Corporate - Large Market Enterprise,,General,0.30%,0.3,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing,,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing,,General,"1.55%6,7",1.55,,,,,,2.0,table
+EEA,,INTRA,Auto (table),,,Fee Type,,,,,,,,2.0,table
+EEA,,INTRA,Auto (table),,,General,"1.90%6,7",1.9,,,,,,2.0,table
+EEA,,INTRA,Auto (table),,,Fee Type,"Large Ticket Program 18
+Large Ticket Program 28",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),,,General,"1.00% + €60.00
+0.75% + €98.00",1.0,,,1.0,EUR,60.0,2.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing,,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard
+Large Ticket Program 17
+Large Ticket Program 27",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing,,General,"1.55%5,6
+1.90%5,6
+1.90%5,6",1.55,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing,,with VGIS,"1.55% - €0.50
+1.90% - €0.50
+1.90% - €0.50",1.55,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing,,with LID,"1.55% - €0.50
+1.90% - €0.50
+1.90% - €0.50",1.55,,,,,,2.0,table
+EEA,,INTRA,Auto (table),,,with VGIS,"- 
+ -",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),,,with LID,"- 
+ -",,,,,,,2.0,table
+EEA,,INTRA,Auto (table),Product,,,Fee Type,,,,,,,3.0,table
+EEA,,INTRA,Auto (table),Product,,,Level 2 - Fuel Only,,,,,,,3.0,table
+EEA,,INTRA,Auto (table),Product,,,Level 3 - Fuel and non-Fuel,,,,,,,3.0,table
+EEA,,INTRA,Auto (table),Product,,,Level 3 - Non-Fuel,,,,,,,3.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing with Fleet,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,3.0,table
+EEA,,INTRA,Auto (table),Visa Purchasing with Fleet,,,"1.55% - 0.30%
+1.90% - 0.30%
+1.90% - 0.30%",1.55,,,,,,3.0,table
+EEA,VISA,INTRA,Commercial,"1.55%, minimum €0.35",,col_1,(capped,,,,,,,,text
+EEA,VISA,INTRA,Commercial,"1.55%, minimum €0.35",,col_2,"1.55%, minimum €0.35",1.55,,,,,,,text
+EEA,VISA,INTRA,Commercial,"1.90%, minimum €0.35",,col_1,(capped,,,,,,,,text
+EEA,VISA,INTRA,Commercial,"1.90%, minimum €0.35",,col_2,"1.90%, minimum €0.35",1.9,,,,,,,text
+EEA,VISA,INTRA,Commercial,"1.65%, minimum €0.35",,col_1,(capped,,,,,,,,text
+EEA,VISA,INTRA,Commercial,"1.65%, minimum €0.35",,col_2,"1.65%, minimum €0.35",1.65,,,,,,,text
+EEA,VISA,INTRA,Commercial,"2.00%, minimum €0.35",,col_1,(capped,,,,,,,,text
+EEA,VISA,INTRA,Commercial,"2.00%, minimum €0.35",,col_2,"2.00%, minimum €0.35",2.0,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Fee Tier,,,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,General,≥ EUR 5,,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,,< EUR 5,,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Bill Payment and Government,≥ EUR 5,,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Reloadable Cards Top Up,≥ EUR 5,,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Tollway Payments,≥ EUR 5,,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%",0.3,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,,"0.28%
+0.28%
+0.28%
+0.28%
+0.28%
+0.28%
+0.28%
+0.28%",0.28,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,Bill Payment and Government,"0.30% (Max EUR 0.20)
+0.30% (Max EUR 0.20)
+0.30% (Max EUR 0.20)
+0.30% (Max EUR 0.35) 
+0.30% (Max EUR 0.35) 
+0.30% (Max EUR 0.35) 
+0.30% (Max EUR 0.20)
+0.30%",0.3,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,,"0.28% (Max EUR 0.20)
+0.28% (Max EUR 0.20)
+0.28% (Max EUR 0.20)
+0.28% (Max EUR 0.35)
+0.28% (Max EUR 0.35)
+0.28% (Max EUR 0.35)
+0.28% (Max EUR 0.20)
+0.28%",0.28,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,Reloadable Cards Top Up,"0.30% (Max EUR 0.20)
+0.30% (Max EUR 0.20)
+0.30% (Max EUR 0.20)
+0.30%
+0.30%
+0.30%
+N/A
+N/A",0.3,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,,"0.28% (Max EUR 0.20)
+0.28% (Max EUR 0.20)
+0.28% (Max EUR 0.20)
+0.28%
+0.28%
+0.28%
+N/A
+N/A",0.28,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,Tollway Payments,"0.30%
+0.30%
+0.30%
+0.15%
+0.15%
+0.30%
+0.30%
+0.30%",0.3,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),,,,"0.28%
+0.28%
+0.28%
+0.14%
+0.14%
+0.28%
+0.28%
+0.28%",0.28,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,,"0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,Bill Payment and Government,"0.20% (Max EUR 0.08)
+0.20% (Max EUR 0.08)
+0.20% (Max EUR 0.08)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.08)
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,,"0.18% (Max EUR 0.08)
+0.18% (Max EUR 0.08)
+0.18% (Max EUR 0.08)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.08)
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,Reloadable Cards Top Up,"0.20% (Max EUR 0.08)
+0.20% (Max EUR 0.08)
+0.20% (Max EUR 0.08)
+0.20%
+0.20%
+0.20%
+N/A
+N/A",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,,"0.18% (Max EUR 0.08)
+0.18% (Max EUR 0.08)
+0.18% (Max EUR 0.08)
+0.18%
+0.18%
+0.18%
+N/A
+N/A",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,Tollway Payments,"0.20%
+0.20%
+0.20%
+0.10%
+0.10%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Debit Mastercard Consumer",,,"0.18%
+0.18%
+0.18%
+0.09%
+0.09%
+0.18%
+0.18%
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM (1)
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,,"0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,Bill Payment and Government,"0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.05)
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,,"0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.05)
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,Reloadable Cards Top Up,"0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20%
+0.20%
+0.20%
+N/A
+N/A",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,,"0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18%
+0.18%
+0.18%
+N/A
+N/A",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,Tollway Payments,"0.20%
+0.20%
+0.20%
+0.10%
+0.10%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Prepaid,,,"0.18%
+0.18%
+0.18%
+0.09%
+0.09%
+0.18%
+0.18%
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Fee Tier,"Contactless 
+Chip
+Chip - late presentment
+PIN-verified
+Signature verified
+Secure e-commerce
+Mail Order /Telephone Order (2)
+Purchase at ATM (1) 
+Purchase at ATM (late presentment) (1)",,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,,"0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Bill Payment and Government,"0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.20)
+0.20% (Max EUR 0.05)
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,,"0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.20)
+0.18% (Max EUR 0.05)
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Reloadable Cards Top Up,"0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20% (Max EUR 0.05)
+0.20%
+0.20%
+N/A
+N/A",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,,"0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18% (Max EUR 0.05)
+0.18%
+0.18%
+N/A
+N/A",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Tollway Payments,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.10%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,,"0.18%
+0.18%
+0.18%
+0.18%
+0.18%
+0.09%
+0.18%
+0.18%
+0.18%",0.18,,,,,,1.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Incentive (1)
+Purchase at ATM (5)
+Purchase at ATM (late presentment) (5)",,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred",,General,"1.50%
+1.50%
+1.60%
+1.90%
+-0.30%
+1.50%
+1.90%",1.5,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred",,"Very Low Value 
+Payment Merchant","1.50%
+1.50%
+1.60%
+1.90%
+-0.30%
+N/A
+N/A",1.5,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred",,"Bill Payment and
+Government","EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.35
+N/A
+EUR 0.20
+1.90%",1.9,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard World Preferred",,Reloadable Cards Top Up,"EUR 0.20
+EUR 0.20
+EUR 0.20
+1.90%
+-0.30%
+N/A
+N/A",1.9,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Incentive (1)
+Purchase at ATM (5)
+Purchase at ATM (late presentment) (5)",,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,General,"1.80%
+1.80%
+1.80%
+1.90%
+-0.30%
+1.80%
+1.90%",1.8,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,"Very Low Value 
+Payment Merchant","1.80%
+1.80%
+1.80%
+1.90%
+-0.30%
+N/A
+N/A",1.8,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,"Bill Payment and
+Government","EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.35
+N/A
+EUR 0.20
+1.90%",1.9,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Reloadable Cards Top Up,"EUR 0.20
+EUR 0.20
+EUR 0.20
+1.90%
+-0.30%
+N/A
+N/A",1.9,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Mastercard FleetCard",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Large Ticket Level 1 (2)(3)
+Large Ticket Level 2 (2)(4)
+Incentive (1)
+Purchase at ATM (5)
+Purchase at ATM (late presentment) (5)",,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Mastercard FleetCard",,General,"1.25%
+1.25%
+1.35%
+1.65%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+1.25%
+1.65%",1.25,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Mastercard FleetCard",,"Very Low Value 
+Payment Merchant","1.25%
+1.25%
+1.35%
+1.65%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+N/A
+N/A",1.25,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Mastercard FleetCard",,"Bill Payment and
+Government","EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.35
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+N/A
+EUR 0.20
+N/A",1.0,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card
+Mastercard FleetCard",,Reloadable Cards Top Up,"EUR 0.20
+EUR 0.20
+EUR 0.20
+1.65%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+N/A
+N/A",1.65,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Large Ticket Level 1 (3)
+Large Ticket Level 2 (4)
+Incentive (1)
+Purchase at ATM (5)
+Purchase at ATM (late presentment) (5)",,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,General,"1.25%
+1.25%
+1.35%
+1.65%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+- EUR 0.50
+1.25%
+1.65%",1.25,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,"Very Low Value 
+Payment Merchant","1.25%
+1.25%
+1.35%
+1.65%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+- EUR 0.50
+N/A
+N/A",1.25,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,"Bill Payment and
+Government","EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.35
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+N/A
+EUR 0.20
+N/A",1.0,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Purchasing Card,,Reloadable Cards Top Up,"EUR 0.20
+EUR 0.20
+EUR 0.20
+1.65%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+- EUR 0.50
+N/A
+N/A",1.65,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard for Business
+Debit Mastercard Corporate Prepaid",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Incentive (1)
+Purchase at ATM (5)
+Purchase at ATM (late presentment) (5)",,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard for Business
+Debit Mastercard Corporate Prepaid",,General,"1.25%
+1.25%
+1.35%
+1.65%
+-0.30%
+1.25%
+1.65%",1.25,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard for Business
+Debit Mastercard Corporate Prepaid",,"Very Low Value 
+Payment Merchant","1.25%
+1.25%
+1.35%
+1.65%
+-0.30%
+N/A
+N/A",1.25,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard for Business
+Debit Mastercard Corporate Prepaid",,"Bill Payment and
+Government","EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.35
+N/A
+EUR 0.20
+1.65%",1.65,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard for Business
+Debit Mastercard Corporate Prepaid",,Reloadable Cards Top Up,"EUR 0.20
+EUR 0.20
+EUR 0.20
+1.65%
+-0.30%
+N/A
+N/A",1.65,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Incentive (1)
+Purchase at ATM (5)
+Purchase at ATM (late presentment) (5)",,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,General,"1.80%
+1.80%
+1.80%
+1.90%
+-0.30%
+1.80%
+1.90%",1.8,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,"Very Low Value 
+Payment Merchant","1.50%
+1.50%
+1.60%
+1.90%
+-0.30%
+N/A
+N/A",1.5,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,"Bill Payment and
+Government","EUR 0.20
+EUR 0.20
+EUR 0.20
+EUR 0.35
+N/A
+EUR 0.20
+1.90%",1.9,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,Reloadable Cards Top Up,"EUR 0.20
+EUR 0.20
+EUR 0.20
+1.90%
+-0.30%
+N/A
+N/A",1.9,,,,,,2.0,table
+IT,MASTERCARD,DOMESTIC,Consumer,≥ EUR 5 < EUR 5,,col_1,≥ EUR 5 < EUR 5,,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,≥ EUR 5 < EUR 5,,col_2,≥ EUR 5 < EUR 5,,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,≥ EUR 5 < EUR 5,,col_3,≥ EUR 5 < EUR 5,,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Credit Contactless,,col_1,0.30% 0.28% 0.30% (Max EUR 0.20) 0.28% (Max EUR 0.20) 0.30% (Max EUR 0.20)0.28% (Max EUR 0.20)0.30% 0.28%,0.3,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Merchant UCAF 0.30% 0.28% 0.30% (Max EUR 0.35),,col_1,0.28% (Max EUR 0.35) 0.30% 0.28% 0.15% 0.14%,0.28,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Full UCAF 0.30% 0.28% 0.30% (Max EUR 0.35),,col_1,0.28% (Max EUR 0.35) 0.30% 0.28% 0.15% 0.14%,0.28,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Base 0.30% 0.28% 0.30% (Max EUR 0.35),,col_1,0.28% (Max EUR 0.35) 0.30% 0.28% 0.30% 0.28%,0.28,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Debit Contactless,,col_1,0.20% 0.18% 0.20% (Max EUR 0.08) 0.18% (Max EUR 0.08) 0.20% (Max EUR 0.08)0.18% (Max EUR 0.08)0.20% 0.18%,0.2,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Prepaid Contactless,,col_1,0.20% 0.18% 0.20% (Max EUR 0.05) 0.18% (Max EUR 0.05) 0.20% (Max EUR 0.05)0.18% (Max EUR 0.05)0.20% 0.18%,0.2,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Maestro Consumer Contactless,,col_1,0.20% 0.18% 0.20% (Max EUR 0.05) 0.18% (Max EUR 0.05) 0.20% (Max EUR 0.05)0.18% (Max EUR 0.05)0.20% 0.18%,0.2,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Consumer,Purchase at ATM (1),,col_1,0.20% 0.18% 0.20% (Max EUR 0.05) 0.18% (Max EUR 0.05) N/A N/A 0.20% 0.18%,0.2,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Commercial,Mastercard Corporate Contactless,,col_1,1.50% 1.50% EUR 0.20 EUR 0.20,1.5,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Commercial,Mastercard Corporate Prepaid Contactless,,col_1,1.80% 1.80% EUR 0.20 EUR 0.20,1.8,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Commercial,Mastercard Business Contactless,,col_1,1.25% 1.25% EUR 0.20 EUR 0.20,1.25,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Purchasing/Fleet,Mastercard Purchasing Card Contactless,,col_1,1.25% 1.25% EUR 0.20 EUR 0.20,1.25,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Commercial,Debit Mastercard for Business Contactless,,col_1,1.25% 1.25% EUR 0.20 EUR 0.20,1.25,,,,,,,text
+IT,MASTERCARD,DOMESTIC,Commercial,Business Premium Debit Contactless,,col_1,1.80% 1.50% EUR 0.20 EUR 0.20,1.8,,,,,,,text
+IT,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,Bollettini2,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Low Value < €5.00
+Contactless
+Secure1
+Non-Secure",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"0.18%
+0.20%
+0.20%
+0.20%",0.18,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"0.18%
+0.20% (capped at €0.07)
+0.20% (capped at €0.07)
+0.20% (capped at €0.07)",0.18,EUR,0.07,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,"Low Value < €5.00
+Contactless
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,"0.18%
+0.20%
+0.20%",0.18,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,"0.18%
+0.20% (capped at €0.07)
+0.20% (capped at €0.07)",0.18,EUR,0.07,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Low Value < €5.00
+Contactless
+Secure
+Non-Secure",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"0.27%
+0.30%
+0.30%
+0.30%",0.27,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"0.27%
+0.30% (capped at €0.30)
+0.30% (capped at €0.30)
+0.30% (capped at €0.30)",0.27,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Commercial,,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"EMV® Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"1.35%
+1.65%
+1.65%",1.35,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"1.35% (capped at €0.30)
+1.65% (capped at €0.30)
+1.65% (capped at €0.30)",1.35,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"1.35%
+1.65%
+1.65%",1.35,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"1.35% (capped at €0.30)
+1.65% (capped at €0.30)
+1.65% (capped at €0.30)",1.35,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Business Credit - Small Market Expense,,,"Low Value < €5.00
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Business Credit - Small Market Expense,,,"0.27%
+0.30%",0.27,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Business Credit - Small Market Expense,,,"0.27%
+0.30% (capped at €0.30)",0.27,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Business Credit - Small Market Expense,,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,"1.60%
+1.90%
+1.90%",1.6,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,"1.60% (capped at €0.30)
+1.90% (capped at €0.30)
+1.90% (capped at €0.30)",1.6,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"1.70%
+2.00%
+2.00%",1.7,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"1.70% (capped at €0.30)
+2.00% (capped at €0.30)
+2.00% (capped at €0.30)",1.7,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Debit
+Visa Infinite Business Prepaid
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate3,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate3,,,"1.55%
+1.90%
+1.90%",1.55,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate3,,,"1.55% (capped at €0.30)
+1.90% (capped at €0.30)
+1.90% (capped at €0.30)",1.55,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate3,,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,"Low Value < €5.00
+Standard",,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,"0.27%
+0.30%",0.27,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,"0.27%
+0.30% (capped at €0.30)",0.27,EUR,0.3,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,,,,,,,,,1.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,General with VGIS,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,General with LID,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,Bollettini2,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55%3
+1.90%3
+1.90%3",1.55,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% - €0.50
+1.90% - €0.50
+1.90% - €0.50",1.55,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% (capped at €0.30)
+1.90% (capped at €0.30)
+1.90% (capped at €0.30)",1.55,EUR,0.3,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,Level 2 - Fuel Only,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,"Level 3 - Fuel and 
+non-Fuel",,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Non-Fuel,,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+IT,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"1.55% - 0.30%
+1.90% - 0.30%
+1.90% - 0.30%",1.55,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer  Credit,,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM
+Purchase at ATM (late presentment)",,,,,,,1.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer  Credit,,General,"0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%",0.3,,,,,,1.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid",,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM
+Purchase at ATM (late presentment)",,,,,,,1.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid",,General,"EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02",,,,,,,1.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Fee Tier,"Contactless 
+Chip & PIN
+Secure e-commerce
+Mail Order /Telephone Order (1)
+Base
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,1.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,General,"EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02
+EUR 0.02",,,,,,,1.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Large Ticket Level 1 (1)(2)
+Large Ticket Level 2 (1)(3)
+Incentive (4)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,General,"1.50%
+1.50%
+1.60%
+1.90%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+1.50%
+1.90%",1.5,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,Supermarkets,"1.50%
+1.50%
+1.60%
+1.90%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+-
+-",1.5,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,B2B (5),"1.50%
+1.50%
+1.60%
+1.90%
+1.00% + EUR 20.00
+0.75% + EUR 45.00
+-0.30%
+1.50%
+1.90%",1.5,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Incentive (4)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,General,"1.80%
+1.80%
+1.80%
+1.90%
+-0.30%
+1.80%
+1.90%",1.8,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Supermarkets,"1.50%
+1.50%
+1.60%
+1.90%
+-0.30%
+-
+-",1.5,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,B2B (5),"1.80%
+1.80%
+1.80%
+1.90%
+-0.30%
+1.80%
+1.90%",1.8,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+Incentive (4)
+Purchase at ATM 
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card",,General,"1.25%
+1.25%
+1.35%
+1.65%
+-0.30%
+1.25%
+1.65%",1.25,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card",,Supermarkets,"1.25%
+1.25%
+1.35%
+1.65%
+-0.30%
+-
+-",1.25,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Prepaid Commercial
+Mastercard Professional Card",,B2B (5),"1.25%
+1.25%
+1.35%
+1.65%
+-0.30%
+1.25%
+1.65%",1.25,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Payments 
+Account",,Fee Tier,Base,,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Payments 
+Account",,General,1.90%,1.9,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Payments 
+Account",,Supermarkets,"1.90% (6)
+1.00% (2)",1.9,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Commercial Payments 
+Account",,B2B (5),"1.90% (6)
+1.00% (2)",1.9,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Commercial,,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Base
+Purchase at ATM
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Commercial,,General,"1.25%
+1.25%
+1.35%
+1.65%
+1.25%
+1.25%",1.25,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Commercial,,Supermarkets,"-
+-
+-
+-
+-
+-",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Commercial,,B2B (5),"-
+-
+-
+-
+-
+-",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Base
+Purchase at ATM
+Purchase at ATM (late presentment)",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,General,"1.45%
+1.45%
+1.55%
+1.85%
+1.45%
+1.45%",1.45,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,Supermarkets,"-
+-
+-
+-
+-
+-",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,B2B (5),"-
+-
+-
+-
+-
+-",,,,,,,2.0,table
+NL,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer,,col_1,Credit Contactless 0.30%,0.3,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Consumer,Maestro Consumer Contactless,,col_1,EUR 0.02,,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Consumer,Purchase at ATM,,col_1,EUR 0.02,,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Commercial,Mastercard Corporate Contactless,,col_1,1.50% 1.50% 1.50%,1.5,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Purchasing/Fleet,Purchase at ATM,,col_1,1.50% - 1.50%,1.5,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Commercial,Mastercard Corporate Prepaid Contactless,,col_1,1.80% 1.50% 1.80%,1.8,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,1.80% - 1.80%,1.8,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Commercial,Mastercard Business Contactless,,col_1,1.25% 1.25% 1.25%,1.25,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,1.25% - 1.25%,1.25,,,,,,,text
+NL,MASTERCARD,DOMESTIC,Commercial,Mastercard Commercial Payments,,col_1,1.90% (6) 1.90% (6),1.9,,,,,,,text
+NL,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Contactless
+Secure1
+Non-Secure",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,€ 0.02,,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,"Contactless
+Secure
+Non-Secure",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"V PAY Debit
+V PAY Prepaid",,,€ 0.02,,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Contactless
+Secure
+Non-Secure",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,"Government Payments2 
+and Money Services3",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,Charity4,,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,"Bill Payments5, Groceries6 
+and Transportation7",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"EMV® Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"1.30%
+1.65%
+1.65%",1.3,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"1.30% (capped at €1.50)
+1.65% (capped at €1.50)
+1.65% (capped at €1.50)",1.3,EUR,1.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"1.30% (capped at €0.50)
+1.65% (capped at €0.50)
+1.65% (capped at €0.50)",1.3,EUR,0.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"1.30% (capped at €0.75)
+-
+-",1.3,EUR,0.75,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+1.65%, minimum €0.35
+1.65%, minimum €0.35",1.3,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+(capped at €1.50)
+1.65%, minimum €0.35
+(capped at €1.50)
+1.65%, minimum €0.35
+(capped at €1.50)",1.3,EUR,1.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"1.30%, minimum €0.35
+(capped at €0.50)
+1.65%, minimum €0.35
+(capped at €0.50)
+1.65%, minimum €0.35
+(capped at €0.50)",1.3,EUR,0.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"-
+-
+-",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Debit,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Debit,,,"1.55%
+1.90%
+1.90%",1.55,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Debit,,,"1.55% (capped at €1.50)
+1.90% (capped at €1.50)
+1.90% (capped at €1.50)",1.55,EUR,1.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Debit,,,"1.55% (capped at €0.50)
+1.90% (capped at €0.50)
+1.90% (capped at €0.50)",1.55,EUR,0.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Debit,,,"1.55% (capped at €0.75)
+-
+-",1.55,EUR,0.75,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Prepaid,,,"1.55%, minimum €0.35
+1.90%, minimum €0.35
+1.90%, minimum €0.35",1.55,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Prepaid,,,"1.55%, minimum €0.35
+(capped at €1.50)
+1.90%, minimum €0.35
+(capped at €1.50)
+1.90%, minimum €0.35
+(capped at €1.50)",1.55,EUR,1.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Prepaid,,,"1.55%, minimum €0.35
+(capped at €0.50)
+1.90%, minimum €0.35
+(capped at €0.50)
+1.90%, minimum €0.35
+(capped at €0.50)",1.55,EUR,0.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Platinum Business Prepaid,,,"-
+-
+-",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Debit,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Debit,,,"1.65%
+2.00%
+2.00%",1.65,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Debit,,,"1.65% (capped at €1.50)
+2.00% (capped at €1.50)
+2.00% (capped at €1.50)",1.65,EUR,1.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Debit,,,"1.65% (capped at €0.50)
+2.00% (capped at €0.50)
+2.00% (capped at €0.50)",1.65,EUR,0.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Debit,,,"1.65% (capped at €0.75)
+-
+-",1.65,EUR,0.75,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Prepaid,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Prepaid,,,"1.65%, minimum €0.35
+2.00%, minimum €0.35
+2.00%, minimum €0.35",1.65,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Prepaid,,,"1.65%, minimum €0.35
+(capped at €1.50)
+2.00%, minimum €0.35
+(capped at €1.50)
+2.00%, minimum €0.35
+(capped at €1.50)",1.65,EUR,1.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Prepaid,,,"1.65%, minimum €0.35
+(capped at €0.50)
+2.00%, minimum €0.35
+(capped at €0.50)
+2.00%, minimum €0.35
+(capped at €0.50)",1.65,EUR,0.5,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Infinite Business Prepaid,,,"-
+-
+-",,,,,,,1.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Business Credit - Small Market 
+Expense",,Fee Type,Standard,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Business Credit - Small Market 
+Expense",,General,0.30%,0.3,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,General,"1.30%
+1.65%
+1.65%",1.3,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit",,General,"1.55%
+1.90%
+1.90%",1.55,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),"Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,General,"1.65%
+2.00%
+2.00%",1.65,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Corporate11,,Fee Type,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Corporate11,,General,"1.55%
+1.90%
+1.90%",1.55,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,Fee Type,Standard,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Corporate - Large Market Enterprise,,General,0.30%,0.3,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,General with VGIS,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,General with LID,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard
+Large Ticket Program 110
+Large Ticket Program 210",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55%8,9
+1.90%8,9
+1.90%8,9",1.55,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% - €0.50
+1.90% - €0.50
+1.90% - €0.50",1.55,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),,,,"1.00% + €60.00
+0.75% + €98.00",1.0,,,1.0,EUR,60.0,2.0,table
+NL,VISA,DOMESTIC,Auto (table),,,,"- 
+ -",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,Level 2 - Fuel Only,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,"Level 3 - Fuel and non-
+Fuel",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Non-Fuel,,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+NL,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"1.55% - 0.30%
+1.90% - 0.30%
+1.90% - 0.30%",1.55,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,Mastercard Consumer Credit,,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Contactless 
+Chip",,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.30%
+0.30%",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Bill Payment and Government (2),"0.3% (with max. 0.15 EUR)
+0.3% (with max. 0.15 EUR)",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Transport (3) (4),"0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Vending (3) (4),"0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,,,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM (2)
+Purchase at ATM (late presentment) (2)",,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Bill Payment and Government (2),"0.3% (with max. 0.15 EUR)
+0.3% (with max. 0.15 EUR)
+0.3% (with max. 0.15 EUR)
+0.3% (with max. 0.15 EUR)
+0.3% (with max. 0.15 EUR)
+0.3% (with max. 0.15 EUR)",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Transport (3) (4),"0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Vending (3) (4),"0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)
+0.3% (with max. 0.01 EUR)",0.3,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,"Mastercard Consumer Debit
+Mastercard Consumer Prepaid
+Debit Mastercard Consumer
+Debit Mastercard Consumer Prepaid",,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Contactless 
+Chip
+Enhanced Electronic
+Merchant UCAF
+Full UCAF
+Base
+Purchase at ATM (2)
+Purchase at ATM (late presentment) (2)",,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Bill Payment and Government (2),"0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Transport (3) (4),"0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Vending (3) (4),"0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Payment Product,"Maestro Consumer
+Maestro Consumer Prepaid",,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.20%
+0.20%",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Bill Payment and Government (2),"0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Transport (3) (4),"0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Vending (3) (4),"0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,"Secure e-commerce
+PIN-verified
+Signature verified
+Mail Order /Telephone Order (1)
+Chip - late presentment
+Purchase at ATM (2)
+Purchase at ATM (late presentment) (2)",,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Bill Payment and Government (2),"0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)
+0.2% (with max. 0.15 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Transport (3) (4),"0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Vending (3) (4),"0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)
+0.2% (with max. 0.01 EUR)",0.2,,,,,,1.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Credit
+Mastercard Fleetcard
+Mastercard Purchasing Card",,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Credit
+Mastercard Fleetcard
+Mastercard Purchasing Card",,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Credit
+Mastercard Fleetcard
+Mastercard Purchasing Card",,General,"1.75%
+1.75%
+1.95%
+1.95%
+1.40% + EUR 10.00
+1.35% + EUR 40.00
+1.75%
+1.95%",1.75,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Credit
+Mastercard Fleetcard
+Mastercard Purchasing Card",,Large Merchants,"1.20%
+1.20%
+1.40%
+1.40%
+1.05% + EUR 5.00
+1.00% + EUR 20.00
+1.20%
+1.40%",1.2,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Chip,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,"50, 53",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,General,,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Large Merchants,,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Enhanced Electronic,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,"84, 88",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Base,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,"75, 85",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Large Ticket Level 1 (1)(2),,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,26,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Large Ticket Level 2 (1)(3),,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,27,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Purchase at ATM  (4),,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,AL,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,Purchase at ATM (late presentment) (4),,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,MT,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Credit,,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Credit,,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Credit,,General,"1.50%
+1.50%
+1.70%
+1.70%
+1.50%
+1.70%",1.5,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Credit,,Large Merchants,"0.95%
+0.95%
+1.15%
+1.15%
+0.95%
+1.15%",0.95,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,"AL
+MT",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,IRD,,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Debit
+Debit Mastercard for Business Premium",,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Debit
+Debit Mastercard for Business Premium",,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Debit
+Debit Mastercard for Business Premium",,General,"1.15%
+1.15%
+1.55%
+1.55%
+1.15%
+1.55%",1.15,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate Debit
+Debit Mastercard for Business Premium",,Large Merchants,0.90%,0.9,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Large Merchants,"0.90%
+1.10%
+1.10%
+0.90%
+1.10%",0.9,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business Debit
+Debit Mastercard Business",,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business Debit
+Debit Mastercard Business",,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business Debit
+Debit Mastercard Business",,General,"1.00%
+1.00%
+1.35%
+1.35%
+1.00%
+1.35%",1.0,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business Debit
+Debit Mastercard Business",,Large Merchants,0.65%,0.65,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Large Merchants,"0.65%
+0.85%
+0.85%
+0.65%
+0.85%",0.65,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Corporate Prepaid,,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Corporate Prepaid,,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Corporate Prepaid,,General,"1.35%
+1.35%
+1.55%
+1.55%
+1.35%
+1.55%",1.35,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Debit Mastercard Corporate Prepaid,,Large Merchants,1.05%,1.05,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Large Merchants,"1.05%
+1.25%
+1.25%
+1.05%
+1.25%",1.05,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,General,"1.80%
+1.80%
+1.80%
+1.80%
+1.80%
+1.80%",1.8,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Large Merchants,"1.05%
+1.05%
+1.25%
+1.25%
+1.05%
+1.25%",1.05,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Prepaid,,Fee Tier,Contactless,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Prepaid,,IRD,P2,,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Prepaid,,General,"1.10%
+1.10%
+1.30%
+1.30%
+1.10%
+1.30%",1.1,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Mastercard Business Prepaid,,Large Merchants,0.80%,0.8,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),,,Large Merchants,"0.80%
+1.00%
+1.00%
+0.80%
+1.00%",0.8,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Small Business,,Fee Tier,"Contactless
+Chip
+Chip - Late Presentment
+PIN-verified
+Signature verified
+Secure e-commerce
+Mail Order/Telephone Order (5)",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Small Business,,IRD,"P1
+45
+49
+46
+47
+48
+MO
+AL
+MT",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Small Business,,General,"0.90%
+0.90%
+1.10%
+0.90%
+1.10%
+1.00%
+1.10%
+0.90%
+1.10%",0.9,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Small Business,,Large Merchants,"0.65%
+0.65%
+0.85%
+0.65%
+0.85%
+0.75%
+0.85%
+0.65%
+0.85%",0.65,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Prepaid Commercial,,Fee Tier,"Contactless
+Chip
+Chip - Late Presentment
+PIN-verified
+Signature verified
+Secure e-commerce
+Mail Order/Telephone Order (5)
+Purchase at ATM  (4)
+Purchase at ATM (late presentment) (4)",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Prepaid Commercial,,IRD,"P1
+45
+49
+46
+47
+48
+MO
+AL
+MT",,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Prepaid Commercial,,General,"1.10%
+1.10%
+1.30%
+1.10%
+1.30%
+1.20%
+1.30%
+1.10%
+1.30%",1.1,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Auto (table),Maestro Prepaid Commercial,,Large Merchants,"0.80%
+0.80%
+1.00%
+0.80%
+1.00%
+0.90%
+1.00%
+0.80%
+1.00%",0.8,,,,,,2.0,table
+PT,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Credit Contactless,,col_1,0.30% 0.3% (with max. 0.15 EUR) 0.3% (with max. 0.01 EUR) 0.3% (with max. 0.01 EUR),0.3,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Debit Contactless,,col_1,0.20% 0.2% (with max. 0.15 EUR) 0.2% (with max. 0.01 EUR) 0.2% (with max. 0.01 EUR),0.2,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Consumer,Maestro Consumer Contactless,,col_1,0.20% 0.2% (with max. 0.15 EUR) 0.2% (with max. 0.01 EUR) 0.2% (with max. 0.01 EUR),0.2,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Purchasing/Fleet,Purchase at ATM,,col_1,(4) AL 1.75% 1.20%,1.75,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 1.50% 0.95%,1.5,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 1.15% 0.90%,1.15,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 1.00% 0.65%,1.0,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 1.35% 1.05%,1.35,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 1.80% 1.05%,1.8,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 1.10% 0.80%,1.1,,,,,,,text
+PT,MASTERCARD,DOMESTIC,Commercial,Purchase at ATM,,col_1,(4) AL 0.90% 0.65%,0.9,,,,,,,text
+PT,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,"Utility and Bill 
+Payments2",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,"Government and Tax 
+Payments3",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Contactless Low Value
+Secure1
+Non-Secure",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,0.20%,0.2,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"0.20%
+capped at € 0.25",0.2,EUR,0.25,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Contactless Low Value
+Secure1
+Non-Secure",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"0.30%
+capped at € 0.50",0.3,EUR,0.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,Vending4,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),GENERAL MERCHANT5,,,,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,1.00%,1.0,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"1.00%
+(capped at € 1.50)",1.0,EUR,1.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,"0.60%
+(capped at € 1.50)",0.6,EUR,1.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,1.25%,1.25,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,"1.25%
+(capped at € 1.50)",1.25,EUR,1.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,"0.90%
+(capped at € 1.50)",0.9,EUR,1.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,0.20%,0.2,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,1.45%,1.45,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"1.45%
+(capped at € 2.50)",1.45,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,"1.05%
+(capped at € 2.50)",1.05,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,1.70%,1.7,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,"1.70%
+(capped at € 2.50)",1.7,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,"1.35%
+(capped at € 2.50)",1.35,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,0.30%,0.3,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,,Standard,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,,0.30%,0.3,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,,"0.30%
+(capped at  € 2.50)",0.3,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,,-,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,"1.25%
+1.50%
+1.50%",1.25,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,"1.25%
+(capped at € 1.50)
+1.50%
+(capped at € 1.50)
+1.50%
+(capped at € 1.50)",1.25,EUR,1.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,"0.85%
+(capped at € 1.50)
+1.15%
+(capped at € 1.50)
+1.15%
+(capped at € 1.50)",0.85,EUR,1.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,0.20%,0.2,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"1.70%
+1.95%
+1.95%",1.7,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"1.70%
+(capped at € 2.50)
+1.95%
+(capped at € 2.50)
+1.95%
+(capped at € 2.50)",1.7,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,"1.30%
+(capped at € 2.50)
+1.60%
+(capped at € 2.50)
+1.60%
+(capped at € 2.50)",1.3,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,,1.75%8,1.75,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,,"1.75%
+(capped at €2.50)",1.75,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,,"1.35%
+(capped at € 2.50)",1.35,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,,,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,2.00%8,2.0,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,"2.00%
+(capped at € 2.50)",2.0,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),,,,"1.65%
+(capped at € 2.50)",1.65,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,,Standard,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,,0.30%,0.3,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,,"0.30%
+(capped at  € 2.50)",0.3,EUR,2.5,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,,-,,,,,,,1.0,table
+PT,VISA,DOMESTIC,Auto (table),LARGE MERCHANT6,,Fee Type,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),LARGE MERCHANT6,,General,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),LARGE MERCHANT6,,"Utility and Bill 
+Payments2",,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),LARGE MERCHANT6,,"Government and Tax 
+Payments3",,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),LARGE MERCHANT6,,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),LARGE MERCHANT6,,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,Fee Type,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,General,0.60%,0.6,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,"Utility and Bill 
+Payments2","0.60%
+(capped at € 1.50)",0.6,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,"Government and Tax 
+Payments3","0.60%
+(capped at € 1.50)",0.6,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Debit
+Visa Business Prepaid",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,Fee Type,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,General,0.90%,0.9,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Utility and Bill 
+Payments2","0.90%
+(capped at € 1.50)",0.9,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Government and Tax 
+Payments3","0.90%
+(capped at € 1.50)",0.9,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,Vending4,0.20%,0.2,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,Fee Type,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,General,1.05%,1.05,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,"Utility and Bill 
+Payments2","1.05%
+(capped € 2.50)",1.05,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,"Government and Tax 
+Payments3","1.05%
+(capped € 2.50)",1.05,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,General,1.35%,1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Utility and Bill 
+Payments2","1.35%
+(capped € 2.50)",1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Government and Tax 
+Payments3","1.35%
+(capped € 2.50)",1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,Vending4,0.30%,0.3,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,Fee Type,Standard,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,General,0.30%,0.3,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,"Utility and Bill 
+Payments2","0.30%
+(capped at  € 2.50)",0.3,EUR,2.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,"Government and Tax 
+Payments3","0.30%
+(capped at  € 2.50)",0.3,EUR,2.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,Vending4,-,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,Fee Type,EMV Chip (incl. Contactless),,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,General,0.85%,0.85,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,"Utility and Bill 
+Payments2","0.85%
+(capped at € 1.50)",0.85,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,"Government and Tax 
+Payments3","0.85%
+(capped at € 1.50)",0.85,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Platinum Business Prepaid
+Visa Infinite Business Debit
+Visa Infinite Business Prepaid",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,Fee Type,Electronic Commerce,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,General,1.15%,1.15,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Utility and Bill 
+Payments2","1.15%
+(capped at € 1.50)",1.15,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Government and Tax 
+Payments3","1.15%
+(capped at € 1.50)",1.15,EUR,1.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,Fee Type,Standard,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,Fee Type,EMV Chip (incl. Contactless),,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,General,1.30%,1.3,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,"Utility and Bill 
+Payments2","1.30%
+(capped € 2.50)",1.3,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,"Government and Tax 
+Payments3","1.30%
+(capped € 2.50)",1.3,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred Debit",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,General,1.60%,1.6,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Utility and Bill 
+Payments2","1.60%
+(capped € 2.50)",1.6,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Government and Tax 
+Payments3","1.60%
+(capped € 2.50)",1.6,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,Fee Type,"EMV Chip (incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,General,1.35%8,1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,"Utility and Bill 
+Payments2","1.35%
+(capped € 2.50)",1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,"Government and Tax 
+Payments3","1.35%
+(capped € 2.50)",1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,Vending4,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate7
+Visa Purchasing",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,General,1.65%8,1.65,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Utility and Bill 
+Payments2","1.65%
+(capped € 2.50)",1.65,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),,,"Government and Tax 
+Payments3","1.65%
+(capped € 2.50)",1.65,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,Fee Type,Standard,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,General,0.30%,0.3,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,"Utility and Bill 
+Payments2","0.30%
+(capped at  € 2.50)",0.3,EUR,2.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,"Government and Tax 
+Payments3","0.30%
+(capped at  € 2.50)",0.3,EUR,2.5,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,Vending4,-,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,,,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,Level 2 - Fuel Only,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,"Level 3 - Fuel and 
+non-Fuel",,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Non-Fuel,,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"1.75% - 0.30%
+2.00% - 0.30%
+2.00% - 0.30%",1.75,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet - Large Merchant,,,"EMV Chip (Incl. Contactless)
+Electronic Commerce
+Standard",,,,,,,2.0,table
+PT,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet - Large Merchant,,,"1.35% - 0.30%
+1.65% - 0.30%
+1.65% - 0.30%",1.35,,,,,,2.0,table
+PT,VISA,DOMESTIC,Commercial,Visa Business Credit -,,col_1,0.30% 0.30%,0.3,,,,,,,text
+PT,VISA,DOMESTIC,Commercial,Small Market Expense (capped at,,col_1,€ 2.50) (capped at,,,,,,,,text
+PT,VISA,DOMESTIC,Commercial,Small Market Expense (capped at,,col_2,€ 2.50),,,,,,,,text
+PT,VISA,DOMESTIC,Commercial,Visa Corporate -,,col_1,0.30% 0.30%,0.3,,,,,,,text
+PT,VISA,DOMESTIC,Commercial,Large Market Enterprise (capped at,,col_1,€ 2.50) (capped at,,,,,,,,text
+PT,VISA,DOMESTIC,Commercial,Large Market Enterprise (capped at,,col_2,€ 2.50),,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,Fee Tier,"Contactless 
+Chip & PIN
+Merchant UCAF
+Full UCAF
+Enhanced Electronic
+Base
+MasterPass Wallet
+Purchase at ATM
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate",,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,General,"0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.30%
+0.00%
+0.00%",0.3,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Consumer Credit,,"Governement & 
+Personal Payments (6)","-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-",,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Installment Payment,,Fee Tier,Mastercard Installment Payments,,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Installment Payment,,General,0.30%,0.3,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Installment Payment,,"Governement & 
+Personal Payments (6)",-,,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid
+Debit Mastercard Consumer",,Fee Tier,"Contactless (1)
+Contactless Terminal (3)
+Contactless High Value (2)(3)
+Chip & PIN
+Merchant UCAF
+Full UCAF
+Enhanced Electronic (4)
+Base
+MasterPass Wallet
+Purchase at ATM
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate",,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid
+Debit Mastercard Consumer",,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.00%
+0.00%",0.2,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Consumer Debit
+Mastercard Consumer Prepaid
+Debit Mastercard Consumer",,"Governement & 
+Personal Payments (6)","0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+-
+-
+-
+-",0.2,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,Fee Tier,"Contactless 
+Contactless Terminal
+Contactless Card
+Chip & PIN
+Secure e- & m-commerce
+Mail Order /Telephone Order (5)
+Base
+MasterPass Wallet
+Purchase at ATM 
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate",,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,General,"0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.20%
+0.00%
+0.00%",0.2,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Maestro Consumer
+Maestro Consumer Prepaid",,"Governement & 
+Personal Payments (6)","0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+0.20% (Max GBP1.00)
+-
+-
+-
+-",0.2,,,,,,1.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+MasterPass 
+Purchase at ATM
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate
+Large Ticket Level 1 (2)(3)
+Large Ticket Level 2 (2)(4)
+Incentive (5)",,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,General,"1.50%
+1.50%
+1.60%
+1.90%
+1.60%
+1.50%
+1.90%
+0.00%
+0.00%
+1.00% + GBP 12.00
+0.75% + GBP 27.00
+-0.30%",1.5,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,B2B (7),"1.50%
+1.50%
+1.60%
+1.90%
+1.60%
+1.50%
+1.90%
+0.00%
+0.00%
+1.00% + GBP 12.00
+0.75% + GBP 27.00
+-0.30%",1.5,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Corporate
+Mastercard FleetCard
+Mastercard Purchasing Card
+Mastercard World Preferred",,"Governement & Personal 
+Payments (10)","0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+-
+-
+-
+-
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+-",0.2,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,Fee Tier,"Contactless
+Chip & PIN
+Enhanced Electronic
+Base
+MasterPass 
+Purchase at ATM
+Purchase at ATM (late presentment)
+Incentive (5)",,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,General,"1.80%
+1.80%
+1.80%
+1.90%
+1.80%
+1.80%
+1.90%
+-0.30%",1.8,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,B2B (7),"1.80%
+1.80%
+1.80%
+1.90%
+1.80%
+1.80%
+1.90%
+-0.30%",1.8,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Corporate Prepaid,,"Governement & Personal 
+Payments (10)","0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+-
+-
+-",0.2,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Professional Card
+Mastercard Prepaid Commercial",,Fee Tier,"Contactless 
+Chip & PIN
+Enhanced Electronic
+Base
+MasterPass 
+Purchase at ATM
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate
+Incentive (5)",,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Professional Card
+Mastercard Prepaid Commercial",,General,"1.30%
+1.30%
+1.40%
+1.70%
+1.40%
+1.30%
+1.70%
+0.00%
+0.00%
+-0.30%",1.3,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Professional Card
+Mastercard Prepaid Commercial",,B2B (7),"1.30%
+1.30%
+1.40%
+1.70%
+1.40%
+1.30%
+1.70%
+0.00%
+0.00%
+-0.30%",1.3,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Mastercard Business
+Mastercard Professional Card
+Mastercard Prepaid Commercial",,"Governement & Personal 
+Payments (10)","0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+-
+-
+-
+-
+-",0.2,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard Business
+Debit Mastercard Corporate Prepaid",,Fee Tier,"Contactless Terminal
+Contactless (1)
+Contactless High Value (6)
+Chip & PIN
+Enhanced Electronic
+Base
+MasterPass 
+Purchase at ATM
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate",,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard Business
+Debit Mastercard Corporate Prepaid",,General,"0.70%
+0.70%
+0.70%
+0.70%
+1.10%
+1.10%
+0.80%
+0.70%
+1.10%
+0.00%
+0.00%",0.7,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard Business
+Debit Mastercard Corporate Prepaid",,B2B (7),"0.70%
+0.70%
+0.70%
+0.70%
+1.10%
+1.10%
+0.80%
+0.70%
+1.10%
+0.00%
+0.00%",0.7,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),"Debit Mastercard Business
+Debit Mastercard Corporate Prepaid",,"Governement & Personal 
+Payments (10)","0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+-
+-
+-
+-",0.2,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,Fee Tier,"Contactless Terminal
+Contactless (1)
+Contactless High Value (6)
+Chip & PIN
+Enhanced Electronic
+Base
+MasterPass 
+Purchase at ATM
+Purchase at ATM (late presentment)
+Approved Charity Waiver
+Merchant Rebate",,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,General,"0.95%
+0.95%
+0.95%
+0.95%
+1.35%
+1.35%
+1.05%
+0.95%
+1.35%
+0.00%
+0.00%",0.95,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,B2B (7),"0.95%
+0.95%
+0.95%
+0.95%
+1.35%
+1.35%
+1.05%
+0.95%
+1.35%
+0.00%
+0.00%",0.95,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Business Premium Debit,,"Governement & Personal 
+Payments (10)","0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+0.20% (Max GBP1.50)
+-
+-
+-
+-",0.2,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Payments Account,,Fee Tier,Base,,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Payments Account,,General,1.90%,1.9,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Payments Account,,B2B (7),"1.90% (8)
+1.00% (9)",1.9,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),Mastercard Commercial Payments Account,,"Governement & Personal 
+Payments (10)",-,,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),,,Fee Tier,MasterPass,,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),,,General,1.90%,1.9,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),,,B2B (7),"1.90% (8)
+1.00% (9)",1.9,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Auto (table),,,"Governement & Personal 
+Payments (10)",-,,,,,,,2.0,table
+UK,MASTERCARD,DOMESTIC,Consumer,Mastercard Consumer Credit Contactless,,col_1,0.30% -,0.3,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Consumer,Maestro Consumer Contactless,,col_1,0.20% 0.20% (Max GBP1.00),0.2,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Consumer,Purchase at ATM,,col_1,0.20% -,0.2,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,Mastercard Corporate Contactless,,col_1,1.50% 1.50% 0.20% (Max GBP1.50),1.5,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Purchasing/Fleet,MasterPass,,col_1,1.60% 1.60% 0.20% (Max GBP1.50),1.6,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,MasterPass,,col_1,1.80% 1.80% 0.20% (Max GBP1.50),1.8,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,Mastercard Business Contactless,,col_1,1.30% 1.30% 0.20% (Max GBP1.50),1.3,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,MasterPass,,col_1,1.40% 1.40% 0.20% (Max GBP1.50),1.4,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,MasterPass,,col_1,0.80% 0.80% 0.20% (Max GBP1.50),0.8,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,MasterPass,,col_1,1.05% 1.05% 0.20% (Max GBP1.50),1.05,,,,,,,text
+UK,MASTERCARD,DOMESTIC,Commercial,MasterPass,,col_1,1.90% -,1.9,,,,,,,text
+UK,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,Me-to-Me Program3,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,"Me-to-Me Program 
+(Tax Payments)4",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"Secure2
+Non-Secure",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,0.20%,0.2,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"0.20% (capped at £0.50)
+0.20% (capped at £1.00)",0.2,GBP,0.5,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Debit
+Visa Consumer Prepaid",,,"0.20% 
+(capped at £0.40)",0.2,GBP,0.4,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,"Secure
+Non-Secure",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,0.30%,0.3,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Consumer Credit
+Visa Consumer Deferred Debit",,,-,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,Me-to-Me Program,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,"Me-to-Me Program 
+(Tax Payments)",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,"Merchant 
+Performance 
+Program",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"Card Present - Contactless5
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.50%
+0.75%
+1.15%
+1.15%",0.5,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.30% 
+(capped at £1.50)",0.3,GBP,1.5,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.30% 
+(capped at £0.75)",0.3,GBP,0.75,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Debit,,,"0.50% (capped at £2.50)
+0.75% (capped at £2.50)
+1.15% (capped at £2.50)
+1.15% (capped at £2.50)",0.5,GBP,2.5,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,1.40%,1.4,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,-,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Business Prepaid,,,"0.30% + £0.05 (capped at £0.75)
+0.30% + £0.10  (capped at £0.75)",0.3,GBP,0.75,0.3,GBP,0.05,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"0.75%
+1.00%
+1.40%
+1.40%",0.75,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"0.30%
+ (capped at £1.50)",0.3,GBP,1.5,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"0.30% 
+(capped at £0.75)",0.3,GBP,0.75,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Debit
+Visa Infinite Business Debit",,,"0.75% (capped at £2.50)
+1.00% (capped at £2.50)
+1.40% (capped at £2.50)
+1.40% (capped at £2.50)",0.75,GBP,2.5,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,1.65%,1.65,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,-,,,,,,,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Prepaid
+Visa Infinite Business Prepaid",,,"0.30% + £0.05 (capped at £0.75)
+0.30% + £0.10  (capped at £0.75)",0.3,GBP,0.75,0.3,GBP,0.05,1.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,Fee Type,Standard,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,General,0.30%,0.3,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,Me-to-Me Program,-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,"Me-to-Me Program 
+(Tax Payments)",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit - 
+Small Market Expense",,"Merchant 
+Performance 
+Program",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,Fee Type,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,General,"1.35%
+1.35%
+1.65%
+1.65%",1.35,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,Me-to-Me Program,-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,"Me-to-Me Program 
+(Tax Payments)",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Business Credit
+Visa Business Deferred Debit",,"Merchant 
+Performance 
+Program",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred 
+Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred 
+Debit",,Fee Type,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred 
+Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred 
+Debit",,General,"1.60%
+1.60%
+1.90%
+1.90%",1.6,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred 
+Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred 
+Debit",,Me-to-Me Program,-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred 
+Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred 
+Debit",,"Me-to-Me Program 
+(Tax Payments)",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Platinum Business Credit
+Visa Platinum Business Deferred 
+Debit
+Visa Infinite Business Credit
+Visa Infinite Business Deferred 
+Debit",,"Merchant 
+Performance 
+Program",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Corporate,,Fee Type,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Corporate,,General,"1.55%
+1.55%
+1.85%
+1.85%",1.55,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Corporate,,Me-to-Me Program,-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Corporate,,"Me-to-Me Program 
+(Tax Payments)",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Corporate,,"Merchant 
+Performance 
+Program",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,Fee Type,Standard,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,General,0.30%,0.3,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,Me-to-Me Program,-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,"Me-to-Me Program 
+(Tax Payments)",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),"Visa Corporate - 
+Large Market Enterprise",,"Merchant 
+Performance 
+Program",-,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,Fee Type,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,General,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,"with Visa Global 
+Invoicing System",,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,with Line Item Detail,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,with Summary Tax,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55%6
+1.55%6
+1.85%6
+1.85%6",1.55,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% - £0.32
+1.55% - £0.32
+1.85% - £0.32
+1.85% - £0.32",1.55,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing,,,"1.55% - £0.16
+1.55% - £0.16
+1.85% - £0.16
+1.85% - £0.16",1.55,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,Level 2 - Fuel Only,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Fuel and Non-Fuel,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Product,,,Level 3 - Non-Fuel,,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"Card Present - Contactless
+Card Present - EMV® Chip
+Card Not Present
+Standard",,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"1.55%6
+1.55%6
+1.85%6
+1.85%6",1.55,,,,,,2.0,table
+UK,VISA,DOMESTIC,Auto (table),Visa Purchasing with Fleet,,,"1.55% - 0.30%
+1.55% - 0.30%
+1.85% - 0.30%
+1.85% - 0.30%",1.55,,,,,,2.0,table
+UK,VISA,DOMESTIC,Commercial,Card Present - EMV® Chip 0.75% 0.30%,,col_1,0.30%,0.3,,,,,,,text
+UK,VISA,DOMESTIC,Commercial,Card Present - EMV® Chip 0.75% 0.30%,,col_2,0.75% (capped at £2.50),0.75,GBP,2.5,,,,,text
+UK,VISA,DOMESTIC,Commercial,Standard 0.30% + £0.10,,col_1,(capped at £0.75),,GBP,0.75,,,,,text
+UK,VISA,DOMESTIC,Commercial,Visa Infinite Business Debit Card Present - EMV® Chip 1.00% 0.30% 0.30%,,col_1,1.00% (capped at £2.50),1.0,GBP,2.5,,,,,text
